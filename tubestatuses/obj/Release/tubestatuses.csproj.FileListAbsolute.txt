@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\bin\tubestatuses.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\bin\tubestatuses.dll
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\bin\tubestatuses.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\obj\Release\tubestatuses.dll
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\obj\Release\tubestatuses.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\tubestatuses\tubestatuses\obj\Release\tubestatuses.csprojResolveAssemblyReference.cache

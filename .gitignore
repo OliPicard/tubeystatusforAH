@@ -7,6 +7,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+packages/
 env/
 build/
 develop-eggs/
@@ -99,3 +100,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+tubestatuses/Properties/PublishProfiles/tubey.pubxml.user
